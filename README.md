@@ -3,7 +3,7 @@
 - 🔭 Currently focused on: **AI research & art creation, vibe coding, and Godot game dev**
 - 🌱 Currently learning: **Java, Rust, and C#**
 - 🎓 I'm a freshman studying in Beijing
-- 🌐 I'm an owner of [**Bloret**](https://github.com/BloretCrew), a team for Minecraft, creative creations, and frontier tech.
+- 🌐 I'm an owner of [**Bloret**](https://github.com/BloretCrew), a team for Minecraft, creative creations, and frontier tech
 - 📫 Reach me: **rhedarliu@outlook.com**
 
 ---
